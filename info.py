@@ -199,4 +199,4 @@ SETTINGS = {
             'shortner_three': SHORTENER_WEBSITE3,
             'api_three': SHORTENER_API3,
             'third_verify_time': THREE_VERIFY_GAP
-}￼Enter
+}
